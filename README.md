@@ -1,5 +1,6 @@
 # ChillOut App
-Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI</br>
+[Click Here for the DEMO](https://youtu.be/b7RJ__Ty7vo)
 
 <img width="400" alt="Screenshot 2023-07-12 at 2 50 36 PM" src="https://github.com/chinmaynawkar/ChilloutChatApp/assets/119050434/b3fad925-b89f-4e62-9da6-b1f3291962ae">
 <img width="400" alt="Screenshot 2023-07-12 at 2 50 03 PM" src="https://github.com/chinmaynawkar/ChilloutChatApp/assets/119050434/ad10dc45-2f74-4dcf-83ae-68bb3498f430">
