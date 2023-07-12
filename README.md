@@ -1,2 +1,12 @@
-# ChilloutChatApp
-This is a simple chat application that allows users to communicate with each other over a network.
+# ChillOut App
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
+
+## Usage
+```
+npm install
+npm run dev
+
+Go to localhost:3000
+```
+
+
