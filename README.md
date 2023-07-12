@@ -13,28 +13,36 @@ Chat applications are a valuable tool for communication, but they can be difficu
 **Proposed Solution**
 This chat application uses HTML, CSS, JavaScript, Node.js, networking, socket programming, and http long polling. These technologies were chosen because they are powerful and versatile, and they allow for a high degree of flexibility in the design of the application.
 
-**Technologies Used**
-HTML
-CSS
-JavaScript
-Node.js
-Networking
-Socket programming
-http long polling
+**Technologies Used :**
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Node.js</li>
+<li>Networking</li>
+<li>Socket programming </li>
+<li>http long polling</li>
+</ul>
+
+
 
 **Future Scope**
 The future scope of this chat application includes the following:
 
-Adding more features, such as file sharing and group chat.
-Improving the performance of the application.
-Making the application more secure.
-Functionality
-The chat application has the following functionality:
+<li>Adding more features, such as file sharing and group chat.</li>
+<li>Improving the performance of the application.</li>
+<li>Making the application more secure.</li>
+</br>
 
-Users can join and leave the chat room.
-Users can send and receive messages.
-Users can see a list of the other users in the chat room.
-Conclusion
+**Functionality
+The chat application has the following functionality:**
+
+<li>Users can join and leave the chat room.</li>
+<li>Users can send and receive messages.</li>
+<li>Users can see a list of the other users in the chat room.</li>
+</br>
+
+**Conclusion**
 This chat application is a simple but effective way for users to communicate with each other over a network. The application is built using a variety of powerful technologies, and it has the potential to be extended with additional features in the future.
 
 
